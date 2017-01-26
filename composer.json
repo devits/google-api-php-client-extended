@@ -4,7 +4,7 @@
 	"type": "library",
 	"description": "Extended google-api-php-client",
 	"require": {
-		"google/apiclient": "1.1.*@dev"
+		"google/apiclient": "^2.1"
 	},
 	"autoload": {
 		"classmap": ["src/"]
